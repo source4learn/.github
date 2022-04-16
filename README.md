@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 Source4Learn welcomes you.</h1>
-<h3 align="left">An opensource community initiative that helps you to learn and share knowledged.</h3>
+<h3 align="left">An opensource community initiative that helps you to learn and share knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=source4learn&label=Profile%20views&color=0e75b6&style=flat" alt="source4learn" /> </p>
 
