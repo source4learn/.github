@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋 Source4Learn welcomes you.</h1>
+<h1 align="left">Hi there👋, Source4Learn welcomes you.</h1>
 <h3 align="left">An opensource community initiative that helps you to learn and share knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=source4learn&label=Profile%20views&color=0e75b6&style=flat" alt="source4learn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/source4learn" target="blank"><img src="https://img.shields.io/twitter/follow/source4learn?logo=twitter&style=for-the-badge" alt="source4learn" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@source4learn](https://medium.com/@source4learn)
+- 📝 We regularly write articles on [https://medium.com/@source4learn](https://medium.com/@source4learn)
 
 - 💬 Ask us about **Linux, Cloud Services, DevOps, IaC, CI/CD Automation, Python, Go and Terraform.**
 
